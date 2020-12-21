@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="212a1992-d801-4af8-b3bc-224be7695ea5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../excel-course 2.0/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../excel-course 2.0/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/flow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/flow.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/hello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/hello.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/speed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/speed.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-icon-36x36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/android-icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/ms-icon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/ms-icon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon/ms-icon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/play-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio/90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio/Energy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio/RTLGroove.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio/Record.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio/dorojnoe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio/slowRadio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radio/start.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/musicPlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/radioPlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/videoPlayer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/scss/_audio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/scss/_radio.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/scss/_range.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/scss/_video.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/style.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/style.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/play.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/video/rocket_launching.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lyGoo8gCwgo2ex6z9DscumOWzs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="212a1992-d801-4af8-b3bc-224be7695ea5" name="Default Changelist" comment="" />
+      <created>1608562095264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608562095264</updated>
+      <workItem from="1608562096425" duration="2386000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
